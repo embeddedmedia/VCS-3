@@ -1,6 +1,14 @@
 # Directory Structure
 ```
-../VCS-2  [error opening dir]
+../VCS-3
+├── directorySctructure.md
+├── Documents
+│   ├── ODKv3-rev1v0 schematics release.pdf
+│   ├── README.md
+│   └── VCS-3 Design Specification (QCF51).pdf
+├── LICENSE
+├── push.sh
+└── README.md
 
-0 directories, 0 files
+1 directory, 7 files
 ```
