@@ -1,4 +1,4 @@
-# Instructions to run the project.
+# Instructions to run the project
 
 ## Requirements
 * Xilinx Vivado 2022.1
